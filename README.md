@@ -1,0 +1,2 @@
+# vertcoin-seeder
+ 
