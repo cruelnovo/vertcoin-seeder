@@ -419,7 +419,7 @@ extern "C" void* ThreadStats(void*) {
 }
 
 static const string mainnet_seeds[] = {"useast1.vtconline.org", "vtc.gertjaap.org", ""};
-static const string testnet_seeds[] = {""};
+static const string testnet_seeds[] = {"vtc.ddnsking.com"};
 static const string *seeds = mainnet_seeds;
 
 extern "C" void* ThreadSeeder(void*) {
